@@ -4,6 +4,7 @@
  <a href="https://thomas-torrente.fr" target="blank"><img align="center" src="https://thomas-torrente.fr/assets/img/Logo-TT-transparent.png" alt="thomas torrente" height="100" width="100" /></a>
 </p>
 
+<img align="right" src="https://www.toolin.fr/wp-content/uploads/2020/07/bruce-almighty-keyboard-clavier.gif" alt="coding" height="100" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thomas-torrente" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas torrente" height="30" width="40" /></a>
