@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas Torrente</h1>
 
-<h3 align="center">A passionate web developer from France</h3>
+<h3 align="center">A passionate web developer & Cybersecurity student from France</h3>
 <p align="center">
  <a href="https://thomas-torrente.fr" target="blank"><img align="center" src="https://thomas-torrente.fr/assets/img/Logo-TT-transparent.png" alt="thomas torrente" height="100" width="100" /></a>
 
