@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Thomas Torrente</h1>
 <h3 align="center">A passionate web developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas-torrente&label=Profile%20views&color=0e75b6&style=flat" alt="thomas-torrente" /> </p>
 
 - 🔭 I’m currently working on [Nexus- Info](https://nexus-info.fr/)
 
