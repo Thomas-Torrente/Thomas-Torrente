@@ -18,7 +18,7 @@ J'explore également Go, Node.js, Svelte et React pour des projets personnels.
 
 ---
 
-📫 [thomas-torrente.fr](https://thomas-torrente.fr) | [LinkedIn](https://linkedin.com/in/thomas-torrente)
+[thomas-torrente.fr](https://thomas-torrente.fr) | [LinkedIn](https://linkedin.com/in/thomas-torrente)
 
 ---
 
